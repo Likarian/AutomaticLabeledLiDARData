@@ -8,7 +8,7 @@ Automatic Labeled LiDAR Data (ALLD) are novel data with human label. The data co
 	* h5file : *containing 500K hdf5 files*
 	* xml : *containing 500K xml files*
 
-* TestSet
+* TestSet_for_HumanDetection_ver01.tar.gz
 	* NetworkWeight
 		* FCDN
 			* fcdn-depth.hdf5 : *trained weight of fcdn by depth*
