@@ -1,6 +1,6 @@
 # Automatic Labeled LiDAR Data for Human detection
 
-Automatic Labeled LiDAR Data (ALLD) are novel data with human label. The data contain various generated LiDAR scenes with human label. To download ALLD, please check free disk space over than 810GB and run 'ALL_IN_ONE.sh'.
+Automatic Labeled LiDAR Data (ALLD) are novel data with human label. The data contain various generated LiDAR scenes with human label. To download ALLD, please check free disk space over than 810GB and run 'DownloadAndUnzip.sh'.
 
 ---
 
