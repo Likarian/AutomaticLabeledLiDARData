@@ -21,6 +21,7 @@ In directory of './TestSet_for_HumanDetection_ver01/NetworkWeight/*specific netw
 > python SampleTest***.py 
 
 ---
+### Directory Specification
 
 * HumanDetection_ver01.tar.gz
 	* h5file : *containing 500K hdf5 files*
