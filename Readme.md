@@ -3,6 +3,22 @@
 Automatic Labeled LiDAR Data (ALLD) are novel data with human label. The data contain various generated LiDAR scenes with human label. To download ALLD, please check free disk space over than 810GB and run 'DownloadAndUnzip.sh'.
 
 ---
+# How to use
+### Dependencies
+* Python 3.6.5
+* Tensorflow 1.9.0
+* Keras 2.2.4
+* Cuda 9.0
+
+### Run DownloadAndUnzip.sh
+In your own directory, please run the following command in terminal.
+| bash ./DownloadAndUnzip.sh 
+
+### Sample code
+In directory of './TestSet_for_HumanDetection_ver01/NetworkWeight/*specific network*/', you can see sample code for performance evaluation. When you want to check sample code, please run the following command in that directory.
+| python SampleTest*specific network*.py 
+
+---
 
 * HumanDetection_ver01.tar.gz
 	* h5file : *containing 500K hdf5 files*
