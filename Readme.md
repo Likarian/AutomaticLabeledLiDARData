@@ -12,11 +12,13 @@ Automatic Labeled LiDAR Data (ALLD) are novel data with human label. The data co
 
 ### Run DownloadAndUnzip.sh
 In your own directory, please run the following command in terminal.
-| bash ./DownloadAndUnzip.sh 
+<br>
+> bash ./DownloadAndUnzip.sh 
 
 ### Sample code
 In directory of './TestSet_for_HumanDetection_ver01/NetworkWeight/*specific network*/', you can see sample code for performance evaluation. When you want to check sample code, please run the following command in that directory.
-| python SampleTest*specific network*.py 
+<br>
+> python SampleTest*specific network*.py 
 
 ---
 
