@@ -4,7 +4,7 @@ Automatic Labeled LiDAR Data (ALLD) are novel data with human label. The data co
 
 The paper of HumanDetection_ver01.tar.gz and TestSet_for_HumanDetection_ver01.tar.gz:
 <br>
-__Wonjik Kim, Masayuki Tanaka, Masatoshi Okutomi, Yoko Sasaki, "Automatic Labeled LiDAR Data Generation based on Precise Human Model", International Conference on Robotics and Automation (ICRA), 2019.__ 
+**Wonjik Kim, Masayuki Tanaka, Masatoshi Okutomi, Yoko Sasaki, "Automatic Labeled LiDAR Data Generation based on Precise Human Model", International Conference on Robotics and Automation (ICRA), 2019.** ([pdf]())
 ---
 # How to use
 ### Dependencies
