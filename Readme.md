@@ -30,7 +30,7 @@ In directory of './TestSet_for_HumanDetection_ver01/NetworkWeight/*specific netw
 	* h5file : *containing 500K hdf5 files*
 	* xml : *containing 500K xml files*
 
-* TestSetforHumanDetection_ver01.tar.gz
+* TestSetForHumanDetection_ver01.tar.gz
 	* NetworkWeight
 		* FCDN
 			* fcdn-depth.hdf5 : *trained weight of fcdn by depth*
