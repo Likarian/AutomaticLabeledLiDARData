@@ -1,6 +1,9 @@
 # Automatic Labeled LiDAR Data for Human detection
 
 Automatic Labeled LiDAR Data (ALLD) are novel data with human label. The data contain various generated LiDAR scenes with human label. To download ALLD, please check free disk space over than 810GB and run 'DownloadAndUnzip.sh'. You can also download the data by the following url.
+
+HumanDetectionVer01 (377GB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/HumanDetectionVer01.tar.gz
+TestSetForHumanDetectionVer01 (1.3GB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/TestSetForHumanDetectionVer01.tar.gz
   
 The paper of Ver01:  
  **Wonjik Kim, Masayuki Tanaka, Masatoshi Okutomi, Yoko Sasaki, "Automatic Labeled LiDAR Data Generation based on Precise Human Model", International Conference on Robotics and Automation (ICRA), 2019.** ([pdf]())
@@ -19,18 +22,18 @@ In your own directory, please run the following command in terminal.
 > bash ./DownloadAndUnzip.sh 
 
 ### Sample code
-In directory of './TestSet_for_HumanDetection_ver01/NetworkWeight/*specific network*/', you can see sample code for performance evaluation. When you want to check sample code, please run the following command in that directory.
+In directory of './TestSetForHumanDetectionVer01/NetworkWeight/*specific network*/', you can see sample code for performance evaluation. When you want to check sample code, please run the following command in that directory.
 <br>
 > python SampleTest***.py 
 
 ---
 ### Directory Specification
 
-* HumanDetection_ver01.tar.gz
+* HumanDetectionVer01.tar.gz
 	* h5file : *containing 500K hdf5 files*
 	* xml : *containing 500K xml files*
 
-* TestSetForHumanDetection_ver01.tar.gz
+* TestSetForHumanDetectionVer01.tar.gz
 	* NetworkWeight
 		* FCDN
 			* fcdn-depth.hdf5 : *trained weight of fcdn by depth*
