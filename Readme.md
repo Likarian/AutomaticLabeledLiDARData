@@ -7,6 +7,9 @@ TestSetForHumanDetectionVer01 (1.3GB) : https://data.airc.aist.go.jp/AutomaticLa
   
 The paper of Ver01:  
  **Wonjik Kim, Masayuki Tanaka, Masatoshi Okutomi, Yoko Sasaki, "Automatic Labeled LiDAR Data Generation based on Precise Human Model", International Conference on Robotics and Automation (ICRA), 2019.** ([pdf]())
+ 
+ Project page:
+ http://www.ok.sc.e.titech.ac.jp/res/LHD/index.html
 
 ---
 # How to use
