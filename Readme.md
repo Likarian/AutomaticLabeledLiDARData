@@ -65,3 +65,9 @@ In directory of './TestSetForHumanDetectionVer01/NetworkWeight/*specific network
 			* 0.1K hdf5 files
 		* TestDataSim
 			* 1K hdf5 files
+
+---
+# License
+Automatic Labeled LiDAR Data are allowed only for noncommercial usage. Please cite our paper if our data were used in your work.
+You can see specific terms of use in the LICENSE.md.
+
