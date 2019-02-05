@@ -5,8 +5,8 @@ The users of the Automatic Labeled LiDAR Data must abide by the following Terms 
 
 1. The use of the dataset is limited only to noncommercial purpose.
 
-1. When publishing results that use this dataset, the users shall comply with the following matter:
-     * The users must cite the paper of the Automatic Labeled LiDAR Data in their publication.
+1. When publishing results that use this dataset, the users must cite the following paper in their publication:
+     * Wonjik Kim, Masayuki Tanaka, Masatoshi Okutomi, Yoko Sasaki, "Automatic Labeled LiDAR Data Generation based on Precise Human Model", International Conference on Robotics and Automation (ICRA), 2019.
 
 1. By downloading the Automatic Labeled LiDAR Data, the users are regarded as having agreed to the Terms of Use.
 
