@@ -67,14 +67,14 @@ In directory of './TestSetForHumanDetectionVer01/NetworkWeight/*specific network
 		* TestDataSim
 			* 1K hdf5 files
 * EtcDataVer01
-	* Section4C2 : *containing 10K hdf5 files*
-	* Section4C3_100012 : *containing 1K hdf5 files*
-	* Section4C3_140020 : *containing 1K hdf5 files*
-	* Section4C3_150050 : *containing 1K hdf5 files*
-	* Section4C3_160050 : *containing 1K hdf5 files*
-	* Section4C3_170080 : *containing 1K hdf5 files*
-	* Section4C3_200080 : *containing 1K hdf5 files*
-	* Section4C4 : *containing 1K hdf5 files*
+	* Section4C2 : *containing 10K hdf5 files used in section 4.2*
+	* Section4C3_100012 : *containing 1K hdf5 files used in section 4.3*
+	* Section4C3_140020 : *containing 1K hdf5 files used in section 4.3*
+	* Section4C3_150050 : *containing 1K hdf5 files used in section 4.3*
+	* Section4C3_160050 : *containing 1K hdf5 files used in section 4.3*
+	* Section4C3_170080 : *containing 1K hdf5 files used in section 4.3*
+	* Section4C3_200080 : *containing 1K hdf5 files used in section 4.3*
+	* Section4C4 : *containing 1K hdf5 files used in section 4.4*
 
 
 ---
