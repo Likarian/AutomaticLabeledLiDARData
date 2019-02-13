@@ -1,10 +1,10 @@
 # Automatic Labeled LiDAR Data for Human detection
 
-Automatic Labeled LiDAR Data (ALLD) are novel data with human label. The data contain various generated LiDAR scenes with human label. To download ALLD, please check free disk space over than 810GB and run 'DownloadAndUnzip.sh'. You can also download the data by the following url.
+Automatic Labeled LiDAR Data are novel data with human label. The data contain various generated LiDAR scenes with human label. To download the data, please check your free disk space enough and run 'DownloadAndUnzip.sh'. You can also download the data by the following url.
 
-HumanDetectionVer01 (377GB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/HumanDetectionVer01.tar.gz
-TestSetForHumanDetectionVer01 (1.3GB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/TestSetForHumanDetectionVer01.tar.gz
-EtcDataVer01 (11.1GB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/EtcDataVer01.tar.gz
+* HumanDetectionVer01 (377GB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/HumanDetectionVer01.tar.gz
+* TestSetForHumanDetectionVer01 (1.3GB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/TestSetForHumanDetectionVer01.tar.gz
+* EtcDataVer01 (11.1GB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/EtcDataVer01.tar.gz
   
 The paper of Ver01:  
  **Wonjik Kim, Masayuki Tanaka, Masatoshi Okutomi, Yoko Sasaki, "Automatic Labeled LiDAR Data Generation based on Precise Human Model", International Conference on Robotics and Automation (ICRA), 2019.** ([pdf]())
