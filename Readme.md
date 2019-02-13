@@ -4,12 +4,10 @@ Automatic Labeled LiDAR Data (ALLD) are novel data with human label. The data co
 
 HumanDetectionVer01 (377GB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/HumanDetectionVer01.tar.gz
 TestSetForHumanDetectionVer01 (1.3GB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/TestSetForHumanDetectionVer01.tar.gz
+EtcDataVer01 (11.1GB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/EtcDataVer01.tar.gz
   
 The paper of Ver01:  
  **Wonjik Kim, Masayuki Tanaka, Masatoshi Okutomi, Yoko Sasaki, "Automatic Labeled LiDAR Data Generation based on Precise Human Model", International Conference on Robotics and Automation (ICRA), 2019.** ([pdf]())
- 
- Project page:
- http://www.ok.sc.e.titech.ac.jp/res/LHD/index.html
 
 ---
 # How to use
@@ -32,11 +30,11 @@ In directory of './TestSetForHumanDetectionVer01/NetworkWeight/*specific network
 ---
 ### Directory Specification
 
-* HumanDetectionVer01.tar.gz
+* HumanDetectionVer01
 	* h5file : *containing 500K hdf5 files*
 	* xml : *containing 500K xml files*
 
-* TestSetForHumanDetectionVer01.tar.gz
+* TestSetForHumanDetectionVer01
 	* NetworkWeight
 		* FCDN
 			* fcdn-depth.hdf5 : *trained weight of fcdn by depth*
@@ -68,6 +66,16 @@ In directory of './TestSetForHumanDetectionVer01/NetworkWeight/*specific network
 			* 0.1K hdf5 files
 		* TestDataSim
 			* 1K hdf5 files
+* EtcDataVer01
+	* Section4C2 : *containing 10K hdf5 files*
+	* Section4C3_100012 : *containing 1K hdf5 files*
+	* Section4C3_140020 : *containing 1K hdf5 files*
+	* Section4C3_150050 : *containing 1K hdf5 files*
+	* Section4C3_160050 : *containing 1K hdf5 files*
+	* Section4C3_170080 : *containing 1K hdf5 files*
+	* Section4C3_200080 : *containing 1K hdf5 files*
+	* Section4C4 : *containing 1K hdf5 files*
+
 
 ---
 # License
