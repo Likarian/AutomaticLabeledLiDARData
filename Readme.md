@@ -7,7 +7,7 @@ Automatic Labeled LiDAR Data are novel data with human label. The data contain v
 * EtcDataVer01 (11.1GB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/EtcDataVer01.tar.gz
   
 The paper of Ver01:  
- **Wonjik Kim, Masayuki Tanaka, Masatoshi Okutomi, Yoko Sasaki, "Automatic Labeled LiDAR Data Generation based on Precise Human Model", International Conference on Robotics and Automation (ICRA), 2019.** ([pdf](http://www.ok.sc.e.titech.ac.jp/res/LHD/pdf/ICRA2019.pdf))
+ **Wonjik Kim, Masayuki Tanaka, Masatoshi Okutomi, Yoko Sasaki, "Automatic Labeled LiDAR Data Generation based on Precise Human Model", International Conference on Robotics and Automation (ICRA), 2019.** ([arxiv](https://arxiv.org/abs/1902.05341#))
 
 ---
 # How to use
